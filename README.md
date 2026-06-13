@@ -1,6 +1,6 @@
 # Adidas Performance Hub - Interactive Sales Dashboard
 
-<img src="new-dashboard.png.png" width="100%">
+<img src="adidas-dashboard.png" width="100%">
 
 ## 📊 Project Overview
 An interactive and dynamic Excel dashboard designed to analyze Adidas sales performance, revenue trends, and profitability. This project transforms raw retail data into actionable business insights to optimize sales strategies, monitor regional market shares, and track product category performance.
